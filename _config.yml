@@ -1,0 +1,19 @@
+markdown: kramdown
+permalink: pretty
+
+port: 8000
+
+gems:
+  - jekyll-assets
+
+assets:
+  sources:
+      - _assets/css
+      - _assets/js
+  compress:
+      css: true
+      js: true
+
+sass:
+    sass_dir: _assets/css
+    style: nested

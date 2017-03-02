@@ -1,0 +1,36 @@
+#Site
+titlu: Bijunicat
+
+descriere: '<p>Bijuterii lucrate manual din lut polimeric.Fiecare piesa e realizata cu dragoste, un bulgare de energie pe care-l puteti purta sau darui.</p>'
+
+cta: Vezi produse
+
+seo:
+  description: 'Bijuterii lucrate manual din lut polimeric.Fiecare piesa e realizata cu dragoste,un bulgare de energie pe care-l puteti purta sau darui.'
+  rel-author: 'https://www.instagram.com/bijunicat'
+  rel-publisher: 'https://www.instagram.com/bijunicat'
+
+reguli_comanda:
+  - {text: 'Comanda minimă începe cu un produs.'}
+  - {text:  'După ce ați finalizat comanda pe site, noi vă vom contacta telefonic în cel mai scurt timp pentru confirmarea comenzii.'}
+  - {text:  'Produsele pot fi ridicate fizic la data fixata: 24 ore - 52 ore de la adresa <a href="https://goo.gl/maps/j5WaJ13nMxs" target="_blank">București, Sector 4, Str. Nițu Vasile 38-40, Stand 37 (lângă Terasa cu Flori)</a>.'}
+  - {text:  'După verificarea comenzii plata se va face cash la ridicare.'}
+  - {text:  'Deoarece firma noastră nu este plătitoare de TVA, prețul afișat este cel pe care îl plătiți efectiv pe produs, nu se mai adaugă alte costuri.'}
+
+
+
+
+#Produse
+produse:
+  - { nume: 'Colier copac', descriere: '', pret: 15, poza: 'colier_copac', id: 31 }
+  - { nume: 'Colier fulgi', descriere: '', pret: 15, poza: 'colier_fulgi', id: 32}
+  - { nume: 'Colier cireșe', descriere: '', pret: 15, poza: 'colier_cirese', id: 33}
+  - { nume: 'Colier bufniță', descriere: '', pret: 15, poza: 'colier_bufnita', id: 34}
+  - { nume: 'Cercei flori roz', descriere: '', pret: 25, poza: 'cercel_flori_roz',id:  41}
+  - { nume: 'Broșă orhidee', descriere: 'Fabricată din fimo, cu ac de broșă. Dimensiuni 6x6cm.',pret: 10 , poza: 'brosa_orhidee', id: 25}
+  - { nume: 'Cercei pisici Felix', descriere: 'Fabricați din fimo, pe suport de cercei cu șurub. Dimensiuni 1x5cm.', pret: 15, poza: 'cercei_pisici_1', id: 26}
+  - { nume: 'Colier Meduză', descriere: 'Meduza este fosforescentă.', pret: 20, poza: 'colier_meduza', id: 46 }
+  - { nume: 'Colier Cabochon Trandafiri Bej', descriere: '', pret: 20, poza: 'cabochon_bej', id: 47 }
+  - { nume: 'Broșă maci', descriere: '', pret: 10, poza: 'brosa_maci', id: 49 }
+  - { nume: 'Cercei Trandafiri roz', descriere: '', pret: 12, poza: 'cercei_trandafiri_roz', id: 50 }
+  - { nume: 'Colier Trandafiri roz', descriere: '', pret: 20, poza: 'colier_trandafiri_roz', id: 51 }

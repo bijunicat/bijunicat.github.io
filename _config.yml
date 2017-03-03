@@ -3,8 +3,7 @@ permalink: pretty
 
 port: 8000
 
-gems:
-  - jekyll-assets
+gems: [jekyll-assets]
 
 assets:
   sources:

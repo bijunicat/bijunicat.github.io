@@ -447,7 +447,7 @@ $(document).ready(function() {
 		"{{ produs.nume }}",
 		"{{ produs.descriere }}",
 		"{{ produs.pret }}",
-		"assets/images/{{ produs.poza }}.jpg",
+		"{{ produs.poza }}",
 		"{{ produs.id }}"
 		] {% if forloop.last %}{% else %},{% endif %}
 		{% endfor %}

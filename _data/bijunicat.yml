@@ -19,68 +19,58 @@ reguli_comanda:
 - text: Deoarece firma noastră nu este plătitoare de TVA, prețul afișat este cel pe
     care îl plătiți efectiv pe produs, nu se mai adaugă alte costuri.
 produse:
-- nume: Emoticon cu floare
-  descriere: ''
-  pret: 5
-  poza: "/uploads/2017/03/02/flower-1.png"
-  id: 50
 - nume: Colier copac
   descriere: ''
   pret: 15
-  poza: colier_copac
+  poza: /assets/images/colier_copac.jpg
   id: 31
 - nume: Colier fulgi
   descriere: ''
   pret: 15
-  poza: colier_fulgi
+  poza: /assets/images/colier_fulgi.jpg
   id: 32
 - nume: Colier cireșe
   descriere: ''
   pret: 15
-  poza: colier_cirese
+  poza: /assets/images/colier_cirese.jpg
   id: 33
 - nume: Colier bufniță
   descriere: ''
   pret: 15
-  poza: colier_bufnita
+  poza: /assets/images/colier_bufnita.jpg
   id: 34
 - nume: Cercei flori roz
   descriere: ''
   pret: 25
-  poza: cercel_flori_roz
+  poza: /assets/images/cercel_flori_roz.jpg
   id: 41
 - nume: Cercei pisici Felix
   descriere: Fabricați din fimo, pe suport de cercei cu șurub. Dimensiuni 1x5cm.
   pret: 15
-  poza: cercei_pisici_1
+  poza: /assets/images/cercei_pisici_1.jpg
   id: 26
 - nume: Broșă orhidee
   descriere: Fabricată din fimo, cu ac de broșă. Dimensiuni 6x6cm.
   pret: 10
-  poza: brosa_orhidee
+  poza: /assets/images/brosa_orhidee.jpg
   id: 25
 - nume: Colier Meduză
   descriere: Meduza este fosforescentă.
   pret: 20
-  poza: colier_meduza
+  poza: /assets/images/colier_meduza.jpg
   id: 46
 - nume: Colier Cabochon Trandafiri Bej
   descriere: ''
   pret: 20
-  poza: cabochon_bej
+  poza: /assets/images/cabochon_bej.jpg
   id: 47
-- nume: Broșă maci
-  descriere: ''
-  pret: 10
-  poza: brosa_maci
-  id: 49
 - nume: Cercei Trandafiri roz
   descriere: ''
   pret: 12
-  poza: cercei_trandafiri_roz
+  poza: /assets/images/cercei_trandafiri_roz.jpg
   id: 50
 - nume: Colier Trandafiri roz
   descriere: ''
   pret: 20
-  poza: colier_trandafiri_roz
+  poza: /assets/images/colier_trandafiri_roz.jpg
   id: 51

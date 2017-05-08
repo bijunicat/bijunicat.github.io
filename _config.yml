@@ -3,9 +3,12 @@ permalink: pretty
 
 port: 8000
 
-gems: [jekyll-assets]
+gems:
+  - jekyll-assets
+  - github-pages
 
 assets:
+  baseurl: http://bijunicat.com/assets
   sources:
       - _assets/css
       - _assets/js
